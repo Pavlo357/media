@@ -1,0 +1,13 @@
+@media (max-width: 980px) {
+    footer {
+        border-top: 1px solid var(--footer-border);
+        padding: 15px 0;
+    }
+    footer a,
+    footer p {
+        font-size: var(--font-xs);
+        line-height: 18px;
+    }
+}
+
+@media (max-width: 767px) {}

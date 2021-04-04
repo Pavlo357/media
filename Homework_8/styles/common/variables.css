@@ -1,0 +1,26 @@
+:root {
+    --content-width: 980px;
+    /* font size */
+    --font-xs: 10px;
+    --font-s: 15px;
+    --font-m: 20px;
+    --font-l: 26px;
+    --font-xl: 42px;
+    /* font size media */
+    --font-xs-media: 8px;
+    --font-s-media: 12px;
+    --font-m-media: 18px;
+    --font-l-media: 24px;
+    --font-xl-media: 40px;
+    /* font weight */
+    --weight: 400;
+    /* color */
+    --first-color: #6c6c6c;
+    --second-color: #ffffff;
+    --third-color: #5094f2;
+    --fourth-color: #909090;
+    --fifth-color: #6f7173;
+    --icon-color-first: #d94748;
+    --icon-color-second: #ebbb11;
+    --footer-border: #e5e5e5;
+}

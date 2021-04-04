@@ -1,0 +1,42 @@
+    .images {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 100px;
+        width: 190px;
+        height: 190px;
+        margin: 0 auto;
+    }
+    
+    .logo {
+        padding: 60px 0 0 0;
+    }
+    
+    .logo .blue {
+        background-color: var(--third-color);
+    }
+    
+    .logo .red {
+        background-color: var(--icon-color-first);
+    }
+    
+    .logo .yellow {
+        background-color: var(--icon-color-second);
+    }
+    
+    .logo h2 {
+        font-size: var( --font-m);
+        line-height: 44px;
+        font-weight: var(--weight);
+        color: var(--third-color);
+        text-align: center;
+        padding-top: 25px;
+    }
+    
+    .logo p {
+        font-size: var(--font-s);
+        line-height: 1.2;
+        font-weight: var(--weight);
+        color: var(--fourth-color);
+        text-align: center;
+    }

@@ -1,0 +1,20 @@
+@media (max-width: 980px) {
+    header {
+        padding: 10px 0 15px 0;
+    }
+    header .header_left img {
+        width: 75%;
+    }
+    header .header_right ul li {
+        padding: 15px 10px;
+    }
+    header .header_right ul li:last-child {
+        padding: 15px 0 0 0;
+    }
+    header .header_right ul li a {
+        font-size: var(--font-m);
+    }
+    header .header_right ul li a:hover {
+        padding: 0 0 25px 0;
+    }
+}

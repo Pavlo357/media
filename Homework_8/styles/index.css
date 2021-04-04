@@ -1,0 +1,6 @@
+@import "../styles/common/index.css";
+@import "../styles/components/header/index-header.css";
+@import "../styles/components/banner/index-banner.css";
+@import "../styles/components/services/index-services.css";
+@import "../styles/components/shopping-cart/index-shopping-cart.css";
+@import "../styles/components/footer/index-footer.css";

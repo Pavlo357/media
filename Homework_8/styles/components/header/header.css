@@ -1,0 +1,45 @@
+header {
+    padding: 25px 0 35px 0;
+}
+
+.header_left,
+.header_right {
+    width: 50%;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_right ul {
+    display: flex;
+}
+
+.header_right ul li {
+    padding: 10px 30px 0 0;
+}
+
+.header_right ul li:last-child {
+    padding: 10px 0 0 0;
+}
+
+.header_right ul li a {
+    transition: .2s;
+    border-bottom: 2px solid transparent;
+}
+
+.header_right ul li a:hover {
+    padding: 0 0 40px 0;
+    color: var(--third-color);
+    border-bottom-color: var(--third-color);
+}
+
+.header_right ul li a {
+    font-size: var( --font-m);
+    line-height: 1.2;
+    font-weight: var(--weight);
+    letter-spacing: 0.01em;
+    color: var(--first-color);
+}

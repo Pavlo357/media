@@ -1,0 +1,13 @@
+footer {
+    text-align: center;
+    border-top: 1px solid var(--footer-border);
+    padding: 35px 0;
+}
+
+footer a,
+footer p {
+    font-size: var(--font-s);
+    line-height: 36px;
+    font-weight: var(--weight);
+    color: var(--fourth-color);
+}

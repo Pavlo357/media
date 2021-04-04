@@ -1,0 +1,15 @@
+.banner_right button {
+    background-color: var(--third-color);
+    width: 172px;
+    height: 41px;
+    border-radius: 2px;
+    font-size: var(--font-m);
+    line-height: 44px;
+    font-weight: 400;
+    color: var(--second-color);
+    padding-bottom: 30px;
+}
+
+form {
+    padding-left: 10px;
+}

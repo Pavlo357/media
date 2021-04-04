@@ -1,0 +1,35 @@
+.banner {
+    background: url(../../../images/background/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner_left {
+    padding: 40px 0 15px 0;
+}
+
+.banner_right {
+    padding: 130px 0 0 0;
+}
+
+.banner_right p {
+    padding: 0 0 25px 0;
+    font-size: var(--font-l);
+    line-height: 44px;
+    color: var(--second-color);
+}
+
+.banner_right h2 {
+    padding: 0 0 25px 0;
+    font-size: var(--font-xl);
+    line-height: 44px;
+    color: var(--second-color);
+}
+
+.banner_right p:first-child {
+    font-size: var(--font-xl);
+}
+
+.banner_right img {
+    padding: 10px 5px 0 0;
+}
